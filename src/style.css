@@ -21,34 +21,48 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    white-space: normal; 
 }
 
 .card-container{
+    border-color: blue;
+    border-width: 2px;
     display: flex;
+    /* align-items: center; */
     padding: 20px;
+    background-color: yellow;
 }
 .card-thumbnail{
+    display: flex;
+    align-items:stretch;
     width: 125px;
     height: 168px;
     border-radius: 5px;
+    float: left;
+    margin-right: 5px;
 }
 
 .card-right{
     display: flex;
     flex-direction: column;
-    padding: 20px;
+   margin-top: 0px;
+   margin-left: 10px;
+
 }
 
 .card-right > .location-horizontal{
     display: flex;
-    align-items: center;
     font-size: 10px;
+    margin-top: 0px;
+
+
 }
 
 .card-right > .location-city{
     margin-top: 7px;
     font-weight: 700px;
     font-size: 25px;
+    flex-shrink: 0;
 }
 
 .card-right > .location-date{
@@ -56,13 +70,15 @@
     color: #2B283A;
     font-size: 10px;
     font-weight: bold;
+    flex-shrink: 0;
 }
 
 .card-right > .location-notes{
     margin-top: 7px;
-    max-width: 400px;
+    max-width: 500px;
     font-weight: 400px;
     font-size: 10px;
+    flex-shrink: 0;
 }
 
 .card-right > .location-horizontal> .location-icon{
@@ -74,13 +90,13 @@
 
 .card-right > .location-horizontal> .location-country{
     font-size: 10px;
-    margin-left: 10px;
+    margin-left: 4px;
     color: #2B283A;
     letter-spacing: 0.17em;
 }
 
 .card-right > .location-horizontal> .location-googlemaps-link{
-    margin-left: 10px;
+    margin-left: 4px;
     color: #918E9B
 }
 

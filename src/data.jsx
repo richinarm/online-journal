@@ -4,7 +4,7 @@ export default [
         country: "Ghana",
         date: "12 Jan, 2021 - 24 Jan, 2021",
         city: "Black Star Square",
-        description: "Black Star Square is a site for Ghana's Independence Day parade, which falls on the 6th of March every year. It also hosts all major national public gatherings and national festivals. Every visitor is free to take pictures of buildings, including the Black Star Gate.",
+        description: "Black Star Square is a site for Ghana's Independence Day parade, which falls on the 6th of March every year. It also hosts all major national public gatherings and national festivals. Every visitor is free to take pictures of buildings, including the Black Star Gate.Black Star Square is a site for Ghana's Independence Day parade, which falls on the 6th of March every year. It also hosts all major national public gatherings and national festivals. Every visitor is free to take pictures of buildings, including the Black Star Gate.Black Star Square is a site for Ghana's Independence Day parade, which falls on the 6th of March every year. It also hosts all major national public gatherings and national festivals. Every visitor is free to take pictures of buildings, including the Black Star Gate.Black Star Square is a site for Ghana's Independence Day parade, which falls on the 6th of March every year. It also hosts all major national public gatherings and national festivals. Every visitor is free to take pictures of buildings, including the Black Star Gate.",
         image: "./images/black-star-square.jpg"
     },
     {
@@ -12,7 +12,7 @@ export default [
         country: "Australia",
         date: "05 Feb, 2021 - 19 Feb, 2021",
         city: "Sydney Opera House",
-        description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+        description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
         image: "./images/sydney-opera.png"
     },
     {
